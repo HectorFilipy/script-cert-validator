@@ -14,4 +14,4 @@ sudo chmod a+x checkssl.sh
 
 * Irá retornar os dias restantes.
 
-* O Valor quando o certificado for vencido, será negativo negativo.
+* O Valor quando o certificado for vencido, será negativo.
