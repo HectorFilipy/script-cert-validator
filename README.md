@@ -1,6 +1,6 @@
 # script-cert-validator
 
-Script para validar quantos dias falta para o vencimento do certificado.
+Script para validar quantos dias falta para o vencimento do certificado SSL.
 
 * Ir até o diretório onde baixou o arquivo **checkssl.sh** e digitar o seguinte comando:
 
